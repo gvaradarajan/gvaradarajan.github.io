@@ -62,6 +62,10 @@
 		height: 100%
 	}
 
+	.profile-pic {
+		border-radius: 50%;
+	}
+
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
